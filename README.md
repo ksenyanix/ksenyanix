@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://c.tenor.com/nkYsPDoADwgAAAAC/computer-pixel-art.gif" width="300"/>
+</div>
+
 Hi there! I'm Kseniia 👋
 - 👀 Currently studying Machine Learning/Data Science
 - 📚 I'm a 3rd year student of Faculty of Infocommunication Technologies at ITMO University in Saint-Petersburg, Russia
