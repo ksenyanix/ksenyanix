@@ -4,7 +4,7 @@
 
 ### Hi there! I'm Kseniia 👋
 - 👀 Currently studying Machine Learning/Data Science
-- 📚 I'm a 3rd year student of Faculty of Infocommunication Technologies at ITMO University in Saint-Petersburg, Russia
+- 📚 I'm a 4th year student of Faculty of Infocommunication Technologies at ITMO University in Saint-Petersburg, Russia
 - 🌱 Spent my semester exchange in University of Innsbruck, Austria
 - 📫 How to reach me: https://t.me/ksenyanix
 
